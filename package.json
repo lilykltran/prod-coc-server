@@ -25,7 +25,7 @@
   "author": "Michael Heyman",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.20.4",
     "pg": "^7.14.0",
     "pg-promise": "^10.2.1"
