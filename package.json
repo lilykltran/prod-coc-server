@@ -35,7 +35,7 @@
     "decache": "^4.5.1",
     "eslint": "^6.6.0",
     "husky": "^3.0.9",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "node-mocks-http": "^1.8.0",
     "prettier": "^1.19.1",
     "pretty-quick": "^2.0.1",
